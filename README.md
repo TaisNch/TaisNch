@@ -5,7 +5,9 @@ I enjoy solving complex problems and continually learning new technologies to en
 <hr>
 🚀 About Me
 Key Hard Skills: CSS, HTML, JavaScript, React
-Current Focus: I'm currently expanding my frontend stack to include advanced techniques and frameworks, aiming to improve performance and scalability in my projects.
+<p>
+  Current Focus: I'm currently expanding my frontend stack to include advanced techniques and frameworks, aiming to improve performance and scalability in my projects.
+</p>
 <hr>
 📫 How to Reach Me 
 Email: tais.nechitaylo@gmail.com
