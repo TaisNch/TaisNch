@@ -10,5 +10,5 @@ Key Hard Skills: CSS, HTML, JavaScript, React
 </p>
 <hr>
 📫 How to Reach Me 
-Email: tais.nechitaylo@gmail.com
-<p> tlgrm: @Tais_Nch </p>
+Email: <a href="mailto:vlad@webref.ru"></a>
+<p> tlgrm: [@Tais_Nch](https://t.me/Tais_Nch) </p>
